@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SensorApp by KG</string>
+    <string name="todo">TODO</string>
+    <string name="menu_button">Menu button</string>
+    <string name="sensors_count">Number of sensors: %d</string>
+    <string name="example_sensor_name">Example sensor name</string>
+    <string name="example_sensor_value">Example sensor value</string>
+    <string name="missing_sensor">No sensor</string>
+    <string name="light_sensor_label">SensorLight %f</string>
+    <string name="temperature_sensor_label">SensorTemperature  %f</string>
+    <string name="last_localization">Push the button to download last localization</string>
+    <string name="location_permission_denied">Location access was denied</string>
+    <string name="location_text">Latitude: %1$.4f \n Longitude: %2$.4f \n Time: %3$tr"</string>
+    <string name="address_text">Address: %1$s \n Czas: %2$tr</string>
+    <string name="no_location">No localization"</string>
+    <string name="service_not_abailable">Not available"</string>
+    <string name="no_address_found">Not found address</string>
+</resources>
